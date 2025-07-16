@@ -1,0 +1,9 @@
+{
+  "name": "ajpsm-backend",
+  "version": "1.0.0",
+  "description": "Backend proxy para o Agente Jornalístico",
+  "main": "api/proxy-gemini.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
